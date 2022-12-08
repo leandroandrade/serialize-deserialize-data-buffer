@@ -1,0 +1,28 @@
+{
+  "name": "serialize-deserialize-data-buffer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandroandrade/serialize-deserialize-data-buffer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandroandrade/serialize-deserialize-data-buffer/issues"
+  },
+  "homepage": "https://github.com/leandroandrade/serialize-deserialize-data-buffer#readme",
+  "dependencies": {
+    "avro-js": "^1.11.1",
+    "msgpack5": "^6.0.2",
+    "msgpackr": "^1.8.1"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
